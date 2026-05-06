@@ -253,7 +253,7 @@ export default function Chukwuemeka() {
                         <a href="https://www.youtube.com/@ChukwuemekaOlelewe" target='_blank'><box-icon type="logo" name="youtube" className={style.box_icon}></box-icon></a>
                     </div>
                 </div>
-                <a href='/portfolio'><button className={style.back_btn}>Go Back</button></a>
+                
             </footer>
         </div>
     </div>
